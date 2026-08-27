@@ -57,7 +57,7 @@ const lines = [
     },
 
     {
-        text: "> Access level: ████████",
+        text: "> Access level: User",
         delay: 1200
     },
 
@@ -103,17 +103,17 @@ const lines = [
     },
 
     {
-        text: "Name: █████████████",
+        text: "Name: SAM WENG Chloé",
         delay: 700
     },
 
     {
-        text: "Location: █████████",
+        text: "Location: 4HM9+2VH Tananarive, Madagascar",
         delay: 700
     },
 
     {
-        text: "Device: █████████",
+        text: "Device: 192.168.1.10",
         delay: 1200
     },
 
@@ -253,7 +253,7 @@ const lines = [
     },
 
     {
-        text: "WARNING",
+        text: "!! WARNING !!",
         delay: 1000,
         className: "warning"
     },
@@ -324,7 +324,7 @@ const lines = [
     },
 
     {
-        text: "Relax...",
+        text: "UPLOAD DATA COMPLETED",
         delay: 1500
     },
 
@@ -334,12 +334,12 @@ const lines = [
     },
 
     {
-        text: "You weren't hacked.",
+        text: "I'm JOKING !! You weren't hacked.",
         delay: 1500
     },
 
     {
-        text: "I just wanted your attention for a minute 😅",
+        text: "I just wanted to check if it works proprely. BTW scroll pour voir le bouton",
         delay: 2000
     }
 ];
